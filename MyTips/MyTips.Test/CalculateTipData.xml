@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Rows>
+  <Row>
+    <BillAmount>10</BillAmount>
+    <TipPercentage>10</TipPercentage>
+    <TotalAmount>11</TotalAmount>
+  </Row>
+  <Row>
+    <BillAmount>12.20</BillAmount>
+    <TipPercentage>18</TipPercentage>
+    <TotalAmount>14.5</TotalAmount>
+  </Row>
+  <Row>
+    <BillAmount>125.28</BillAmount>
+    <TipPercentage>15</TipPercentage>
+    <TotalAmount>144</TotalAmount>
+  </Row>
+</Rows>
